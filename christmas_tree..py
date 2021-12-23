@@ -121,6 +121,8 @@ for i in range(5):
 
 t.end_fill()
 
+t.hideturtle()
+
 
  
 
